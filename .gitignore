@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+data/jobs.db
+data/profile_context.md
+*.log
+
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
